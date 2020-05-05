@@ -2,7 +2,7 @@
 ## Team 19075
 
 This is a repository for the necessary software of the Non-Destructive Field Robotic 3D Biomass Scanner. The files contained here include the robot's core scan routine, a LiDAR test file, an ODrive motor controller test file, and a cubic mesh generator. 
----
+
 For inquiries of ownership, operation, or anything else, feel free to email me at ulanday.ian@gmail.com. 
 
 ## Libraries used
